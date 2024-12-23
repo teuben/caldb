@@ -1,3 +1,7 @@
+# data is taken from https://heasarc.gsfc.nasa.gov/docs/heasarc/caldb/caldb_supported_missions.html
+
+
+
 # nicer has only 1 instrument
 https://heasarc.gsfc.nasa.gov/FTP/caldb/data/nicer/xti/goodfiles_nicer_xti_20240206.tar.gz
 
