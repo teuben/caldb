@@ -31,3 +31,11 @@ starting from source, and assuming all preconditions are satisfied, here's an ex
       ./configure --prefix=/n/astromake/opt/heasoft/6.34
       make > make.log  2>&1
       make  install
+
+## CALDB Assembly Example
+
+for a series of mission/instruments, as listed on,
+https://heasarc.gsfc.nasa.gov/docs/heasarc/caldb/caldb_supported_missions.html,
+there is a tar file to be downloaded and untarred inside of the $CALDB directory.
+Maintenance of this could be better automated here via a config file which
+combos you want.
