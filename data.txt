@@ -1,0 +1,12 @@
+# nicer has only 1 instrument
+https://heasarc.gsfc.nasa.gov/FTP/caldb/data/nicer/xti/goodfiles_nicer_xti_20240206.tar.gz
+
+# nustar has 2 ?
+https://heasarc.gsfc.nasa.gov/FTP/caldb/data/nustar/fpm/goodfiles_nustar_fpm_20241216.tar.gz
+https://heasarc.gsfc.nasa.gov/FTP/caldb/data/nustar/fpm/goodfiles_nustar_fpm_clockcor_20241216.tar.gz
+
+# xrism has 3 instruments
+https://heasarc.gsfc.nasa.gov/FTP/caldb/data/xrism/resolve/goodfiles_xrism_resolve_20241115.tar.gz
+https://heasarc.gsfc.nasa.gov/FTP/caldb/data/xrism/xtend/goodfiles_xrism_xtend_20241115.tar.gz
+https://heasarc.gsfc.nasa.gov/FTP/caldb/data/xrism/gen/goodfiles_xrism_gen_20241115.tar.gz
+
